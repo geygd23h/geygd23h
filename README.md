@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Prayas Sharma 👋
 
-<!--
-**geygd23h/geygd23h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student
 
-Here are some ideas to get you started:
+📊 Data Analytics Intern at ApexPlanet
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Interested in:
+- Data Analytics
+- Data Science
+- Artificial Intelligence
+- Machine Learning
+
+🛠️ Skills:
+- Python
+- SQL
+- Excel
+- Power BI
+- Pandas
+- NumPy
+- Data Visualization
+
+🌱 Currently Learning:
+- Data Analytics
+- Machine Learning
+- Power BI Dashboarding
+- AI Foundations
+
+📈 Recent Project:
+- Customer Churn Analysis using IBM Telco Customer Churn Dataset
+
+📫 Connect with Me:
+- LinkedIn: [Add your LinkedIn URL]

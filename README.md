@@ -29,4 +29,4 @@
 - Customer Churn Analysis using IBM Telco Customer Churn Dataset
 
 📫 Connect with Me:
-- LinkedIn: [Add your LinkedIn URL]
+- LinkedIn: [www.linkedin.com/in/prayas-sharma-3a25292ab]
